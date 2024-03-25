@@ -1,8 +1,4 @@
-It is a prototype project. 
-
-This spring boot project involves kafka(producer and consumer), neo4j (neo4jclient), creation of topic using topic builder, retryable logic, factory design pattern and restful api.
-
-This is just a working prototype.
+Spring boot project - kafka(producer and consumer), neo4j (neo4jclient), creation of topic using topic builder, retryable logic, factory design pattern and restful api.
 
 In order to run this project, you need kafka and neo4j setup.
 
